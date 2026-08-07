@@ -1,0 +1,22 @@
+.home-h1 {
+  font-family: Poppins;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 64px;
+  color: #ffffff;
+  line-height: 125%;
+  letter-spacing: 0%;
+}
+.home-p {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  color: #8b8e99;
+  line-height: 125%;
+  letter-spacing: 0%;
+}
+.home-div {
+  display: flex;
+  justify-content: center;
+}

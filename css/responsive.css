@@ -1,0 +1,13 @@
+@media (max-width: 670px) {
+  .card-item {
+    display: none;
+  }
+}
+@media (max-width: 580px) {
+  .card-a {
+    display: none;
+  }
+  .card-btn {
+    display: block;
+  }
+}

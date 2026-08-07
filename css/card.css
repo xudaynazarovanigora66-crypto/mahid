@@ -1,0 +1,31 @@
+.card-a {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  color: #8b8e99;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-decoration: none;
+}
+.card-ul {
+  list-style-type: none;
+  display: flex;
+  gap: 27px;
+}
+.card-nav {
+  display: flex;
+  justify-content: space-around;
+  background: linear-gradient(155.28deg, #383638 2.06%, #0b0b0b 33.08%);
+  align-items: center;
+  padding: 20px;
+}
+.card-item {
+  display: flex;
+  gap: 15px;
+}
+.card-btn {
+  background: none;
+  border: none;
+  display: none;
+}
