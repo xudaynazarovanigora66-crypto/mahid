@@ -16,7 +16,7 @@
 .card-nav {
   display: flex;
   justify-content: space-around;
-  background: linear-gradient(155.28deg, #383638 2.06%, #0b0b0b 33.08%);
+  margin-bottom: 154px;
   align-items: center;
   padding: 20px;
 }

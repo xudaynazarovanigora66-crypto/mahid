@@ -6,6 +6,7 @@
   color: #ffffff;
   line-height: 125%;
   letter-spacing: 0%;
+  margin-bottom: 20px;
 }
 .home-p {
   font-family: Poppins;
@@ -19,4 +20,45 @@
 .home-div {
   display: flex;
   justify-content: center;
+  align-items: center;
+}
+.home {
+}
+.homes {
+  background: linear-gradient(155.28deg, #383638 2.06%, #0b0b0b 33.08%);
+}
+.home-div2 {
+  display: flex;
+  align-items: center;
+  padding: 10px 40px;
+  background: #ffffff;
+  border-radius: 15px;
+}
+.home-div3 {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.home-h5 {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  color: #8b8e99b2;
+  line-height: 125%;
+  letter-spacing: 0%;
+}
+.home-btn {
+  font-family: Poppins;
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 18px;
+  color: #ffffff;
+  line-height: 125%;
+  letter-spacing: 0%;
+  text-align: center;
+  border: none;
+  border-radius: 9px;
+  background: #3858d6;
+  padding: 15px 30px;
 }
