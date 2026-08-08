@@ -1,0 +1,56 @@
+.contact-h5 {
+  font-family: Inter;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  color: #3858d6;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.contact-h3 {
+  font-family: Inter;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 36px;
+  color: #1e1d1d;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.contact-div1 {
+  display: flex;
+  justify-content: center;
+  gap: 47px;
+}
+.contact-div2 {
+  display: flex;
+  align-items: center;
+  padding: 30px 40px;
+  background: #ececec;
+  border-radius: 22px;
+  gap: 28px;
+}
+.contact-p {
+  font-family: Inter;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  color: #8b8e99;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.contact-h4 {
+  font-family: Inter;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 24px;
+  color: #1e1d1d;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.contact-div3 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

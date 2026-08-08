@@ -11,3 +11,8 @@
     display: block;
   }
 }
+@media (max-width: 975px) {
+  .home-div {
+    flex-direction: column;
+  }
+}

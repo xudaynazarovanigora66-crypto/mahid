@@ -1,0 +1,87 @@
+.prod-h5 {
+  font-family: Inter;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  color: #3858d6;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.prod-h3 {
+  font-family: Inter;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 36px;
+
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-bottom: 65px;
+}
+.product-div1 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 64px;
+}
+.product-h5 {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 20px;
+  color: #8b8e99;
+  line-height: 121%;
+  letter-spacing: 0%;
+  text-align: right;
+}
+.prod-h4 {
+  font-family: Poppins;
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 24px;
+  color: #000000;
+  line-height: 121%;
+  letter-spacing: 0%;
+}
+.prod-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+.prod-img {
+  max-width: 300px;
+  width: 100%;
+}
+.prod-img1 {
+  max-width: 100px;
+}
+.prod-div1 {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+.product-h4 {
+  font-family: Poppins;
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 24px;
+  color: #1e1d1d;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.prod-div2 {
+  padding: 30px 50px;
+  background: #f6f6f6;
+}
+@media (max-width: 1190px) {
+  .product-div1 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 780px) {
+  .product-div1 {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
