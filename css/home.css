@@ -28,6 +28,7 @@
 }
 .homes {
   background: linear-gradient(155.28deg, #383638 2.06%, #0b0b0b 33.08%);
+  margin-bottom: 73px;
 }
 .home-div2 {
   display: flex;

@@ -7,6 +7,7 @@
   line-height: 100%;
   letter-spacing: 0%;
   text-align: center;
+  margin-bottom: 5px;
 }
 .contact-h3 {
   font-family: Inter;
@@ -17,11 +18,13 @@
   line-height: 100%;
   letter-spacing: 0%;
   text-align: center;
+  margin-bottom: 55px;
 }
 .contact-div1 {
   display: flex;
   justify-content: center;
   gap: 47px;
+  flex-wrap: wrap;
 }
 .contact-div2 {
   display: flex;
@@ -30,6 +33,7 @@
   background: #ececec;
   border-radius: 22px;
   gap: 28px;
+  margin-bottom: 43px;
 }
 .contact-p {
   font-family: Inter;
@@ -53,4 +57,14 @@
   display: flex;
   flex-direction: column;
   gap: 10px;
+}
+.contact-img {
+  max-width: 150px;
+}
+.contact-img1 {
+  display: flex;
+  justify-content: center;
+}
+.contact-img2 {
+  margin-bottom: 135px;
 }

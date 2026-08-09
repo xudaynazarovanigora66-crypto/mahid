@@ -16,3 +16,8 @@
     flex-direction: column;
   }
 }
+@media (max-width: 400px) {
+  .contact-div2 {
+    flex-direction: column;
+  }
+}

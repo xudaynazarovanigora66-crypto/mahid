@@ -1,0 +1,69 @@
+.about-h3 {
+  font-family: Inter;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 36px;
+  color: #1e1d1d;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.about-p {
+  font-family: Inter;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  color: #8b8e99;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.about-h5 {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  color: #8b8e99b2;
+  line-height: 125%;
+  letter-spacing: 0%;
+}
+.about-div2 {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  background: #ffffff;
+  border-radius: 15px;
+  gap: 100px;
+}
+.about-btn {
+  padding: 15px 30px;
+  background: #3858d6;
+  font-family: Poppins;
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 16px;
+  color: #ffffff;
+  line-height: 125%;
+  letter-spacing: 0%;
+  text-align: center;
+  border: none;
+  border-radius: 9px;
+}
+.about-div {
+  padding: 30px 50px;
+  background: #f6f6f6;
+  display: flex;
+  justify-content: center;
+  gap: 178px;
+  align-items: center;
+  border-radius: 22px;
+  margin-bottom: 91px;
+}
+.about-div1 {
+  display: flex;
+  gap: 12px;
+  flex-direction: column;
+}
+@media (max-width: 790px) {
+  .about-div {
+    flex-direction: column;
+  }
+}

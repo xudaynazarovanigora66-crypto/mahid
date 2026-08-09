@@ -1,0 +1,16 @@
+.search-a {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  color: #ffffff;
+  line-height: 125%;
+  letter-spacing: 0%;
+  text-decoration: none;
+}
+.search {
+  background: #0b0b0b;
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+}
